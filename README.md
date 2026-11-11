@@ -23,7 +23,7 @@
 
 ### 2023年1月14号添加
 
-#### GeorgeZou - [Github](https://github.com/georgezouq)
+#### 星搭项目
 * ✅ [星搭 MtBird](https://github.com/staringos/mtbird) - 💻 小程序、H5网站 无/低代码平台，无需代码，拖拽操作快速生成页面应用，数据可视化接入，定制业务自由拓展.
 
 
@@ -450,7 +450,7 @@
 
 ### 2020年10月20号添加
 ---
-#### GeorgeZou(北京) - [Github](https://github.com/georgezouq), [博客](https://blog.tefact.com/)
+#### 星搭与 Tefact
 * :x: [星搭 StaringOS](https://staringos.com)：星搭无代码平台，快速构建中后台、小程序
 * :clock8: [Tefact编辑器](https://github.com/staringos/tefact)：轻量级开源无代码 H5、表单 编辑器
 * :white_check_mark: [真科技周刊](https://github.com/Tefact/tefact-weekly)：科技 · 商业 · 人文 · 未来
